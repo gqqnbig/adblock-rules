@@ -1,1 +1,1 @@
-https://zwms.gdbs.gov.cn/api/open/r/foreigner_yue_code/CheckYkmRecordInfo
+|https://zwms.gdbs.gov.cn/api/open/r/foreigner_yue_code/CheckYkmRecordInfo|
